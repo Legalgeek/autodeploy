@@ -3,8 +3,8 @@
 
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">测试网站</h1>
-        <p>A place to share your knowledge.</p>
+        <h1 class="logo-font">测试页面</h1>
+        <p>A test page made by Legalgeek</p>
       </div>
     </div>
 
